@@ -12,7 +12,7 @@ const FooterSection = () => (
           <h3 className="text-lg font-semibold mb-4">Contact Details</h3>
           <div className="flex items-center text-gray-400 mb-4">
             <FaPhone className="mr-2" />
-            <p>(123) 456-7890</p>
+            <p>076 386 3550</p>
           </div>
           <div className="flex items-center text-gray-400 mb-4">
             <FaEnvelope className="mr-2" />
