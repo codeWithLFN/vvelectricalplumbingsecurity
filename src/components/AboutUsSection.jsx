@@ -5,8 +5,8 @@ const AboutUsSection = () => (
     <div className="container mx-auto px-6 text-center">
       <h2 className="text-4xl lg:text-5xl font-extrabold text-gray-800 mb-8">About Us</h2>
       <p className="text-lg text-gray-700 max-w-3xl mx-auto mb-12">
-      VV Electrical, Plumbing & Security is a Gauteng based construction company established in 2021 with two capable and hands-on managing directors. 
-      The company&apos;s mission is to establish a one-stop shop for:
+      VV Electrical, Plumbing & Security is a Gauteng-based construction company established in 2021. 
+      Our mission is to be your one-stop shop for all electrical, plumbing, and security system needs
       </p>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
         <div className="about-item bg-gray-100 shadow-lg rounded-lg p-8 flex flex-col items-center">
