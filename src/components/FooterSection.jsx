@@ -35,7 +35,7 @@ const FooterSection = () => (
         </div>
       </div>
       <div className="mt-12 text-center">
-        <p className="text-gray-400">&copy; {new Date().getFullYear()} Your Company. All rights reserved.</p>
+        <p className="text-gray-400">&copy; {new Date().getFullYear()} VV Plumbing Electrical And Security Systems. All rights reserved.</p>
         <p className="text-gray-400">Website developed by <a href="https://github.com/codeWithLFN">codeWithLFN</a></p> {/* Add developer's name and GitHub link here */}
       </div>
     </div>
