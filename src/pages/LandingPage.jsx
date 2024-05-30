@@ -5,7 +5,8 @@ import AboutUsSection from '../components/AboutUsSection.jsx';
 import TestimonialsSection from '../components/TestimonialsSection.jsx';
 import PortfolioSection from '../components/PortfolioSection.jsx';
 import ContactSection from '../components/ContactSection.jsx';
-import FooterSection from '../components/FooterSection.jsx';	
+import FooterSection from '../components/FooterSection.jsx';
+import WhatsAppFloater from '../components/WhatsAppFloater.jsx';
 
 const LandingPage = () => (
   <div>
@@ -28,6 +29,7 @@ const LandingPage = () => (
     <div id="contact">
       <ContactSection />
     </div>
+    <WhatsAppFloater />
     <FooterSection />
   </div>
 );
