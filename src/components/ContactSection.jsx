@@ -110,7 +110,7 @@ const ContactSection = () => (
                 <p className="text-lg text-gray-300">Gauteng</p>
               </div>
               <div className="item-button mt-6">
-                <a className="cta-btn btn-md inline-flex items-center bg-yellow-500 text-gray-900 py-3 px-6 rounded-lg hover:bg-yellow-600" title="Location" href="https://goo.gl/maps/xipWF492X1BgCwsDA" target="_blank">
+                <a className="cta-btn btn-md inline-flex items-center bg-yellow-500 text-gray-900 py-3 px-6 rounded-lg hover:bg-yellow-600" title="Location" href="https://www.google.com/maps/place/Gauteng/@-26.0167199,28.1273794,9z/data=!3m1!4b1!4m6!3m5!1s0x1e9512955411779f:0x6d9ee7c7cb5438e2!8m2!3d-26.2707593!4d28.1122679!16zL20vMDF0MDV0?entry=ttu" target="_blank">
                   Google Maps
                   <FaExternalLinkAlt className="icon ml-3 text-2xl" />
                 </a>
