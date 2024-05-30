@@ -29,7 +29,7 @@ const ContactSection = () => (
               </div>
               {/* CALL NOW BUTTON */}
               <div className="item-button mt-6">
-                <a className="cta-btn contact-button inline-flex items-center bg-yellow-500 text-gray-900 py-3 px-6 rounded-lg hover:bg-yellow-600" title="Call Thabelo" href="tel:0729270758">
+                <a className="cta-btn contact-button inline-flex items-center bg-yellow-500 text-gray-900 py-3 px-6 rounded-lg hover:bg-yellow-600" title="Call Now" href="tel:0763863550">
                   Call Now
                   <FaPhoneAlt className="icon ml-3 text-2xl" />
                 </a>
