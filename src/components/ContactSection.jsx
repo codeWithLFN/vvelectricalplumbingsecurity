@@ -24,8 +24,7 @@ const ContactSection = () => (
               <div className="flex items-center mb-4">
                 <FaPhoneAlt className="icon mr-2 text-2xl text-yellow-500" />
                 <p>
-                  <a href="tel:0734811460" className="text-yellow-500 hover:text-yellow-300">073 481 1460</a> /
-                  <a href="tel:0729270758" className="text-yellow-500 hover:text-yellow-300">072 927 0758</a>
+                  <a href="tel:0763863550" className="text-yellow-500 hover:text-yellow-300">076 386 3550</a>
                 </p>
               </div>
               {/* CALL NOW BUTTON */}
