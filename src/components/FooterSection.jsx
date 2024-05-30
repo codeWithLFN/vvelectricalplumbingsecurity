@@ -16,7 +16,7 @@ const FooterSection = () => (
           </div>
           <div className="flex items-center text-gray-400 mb-4">
             <FaEnvelope className="mr-2" />
-            <p>6vC3M@example.com</p>
+            <p>info@vvelectrical.co.za</p>
           </div>
         </div>
         <div>
