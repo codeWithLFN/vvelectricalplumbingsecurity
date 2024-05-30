@@ -19,7 +19,7 @@ const ContactSection = () => (
             <div className="contact-info-item mb-6">
               <div className="flex items-center mb-4">
                 <FaUser className="icon mr-2 text-2xl text-yellow-500" />
-                <p title="Matodzi - Executive Director" className="text-lg text-gray-300">Mr. Matodzi Mutavhatsindi <span className="font-semibold">E.D.</span></p>
+                <p className="text-lg text-gray-300">Mr. Matodzi Mutavhatsindi <span className="font-semibold"></span></p>
               </div>
               <div className="flex items-center mb-4">
                 <FaPhoneAlt className="icon mr-2 text-2xl text-yellow-500" />
