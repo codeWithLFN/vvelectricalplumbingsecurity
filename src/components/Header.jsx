@@ -37,10 +37,6 @@ const Header = () => {
             <FaTools className="mr-2 text-lg" />
             Services
           </a>
-          <a href="#testimonials" onClick={closeMenu} className="block hover:text-yellow-500 transition duration-300 ease-in-out flex items-center py-2 md:py-0">
-            <FaStar className="mr-2 text-lg" />
-            Testimonials
-          </a>
           <Link to="/projects" onClick={closeMenu} className="block hover:text-yellow-500 transition duration-300 ease-in-out flex items-center py-2 md:py-0">
             <FaProjectDiagram className="mr-2 text-lg" />
             Projects
