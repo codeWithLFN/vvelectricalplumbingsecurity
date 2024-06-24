@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { FaHome, FaInfoCircle, FaTools, FaStar, FaProjectDiagram, FaPhoneAlt, FaBars, FaTimes } from 'react-icons/fa';
+import { FaHome, FaInfoCircle, FaTools, FaProjectDiagram, FaPhoneAlt, FaBars, FaTimes } from 'react-icons/fa';
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
